@@ -11,7 +11,7 @@ I'm currently working on a Mobile App Project.<br>I'm looking to collaborate on 
 ![](https://github-readme-stats.vercel.app/api?username=alazarlemma02&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alazarlemma02&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alazarlemma02&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://leetcard.alazar10.cool/lapor?ext=heatmap)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alazarlemma02&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
