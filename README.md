@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Mobile App Project.<br>I'm looking to collaborate on any Flutter project.<br>I'm currently learning API Development using Rails.<br>Ask me about any backend service Java, and Flutter(Dart), Rails.
+I'm currently working on a Mobile App Project.<br>I'm looking to collaborate on any Flutter project.<br>I'm currently learning API Development using Rails.<br>Ask me about any backend service Java, Flutter(Dart), and Rails.
 
 
 ## 🌐 Socials:
