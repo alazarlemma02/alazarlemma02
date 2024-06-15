@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mobile App Development**
 
-- 🌱 I’m currently learning **API Development Using Rails**
+- 🌱 I’m currently learning **Advanced API Development Using Python(Django)**
 
 - 💬 Ask me about **any backend services, Java, Flutter(Dart), and Rails.**
 
