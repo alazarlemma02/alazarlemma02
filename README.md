@@ -1,4 +1,4 @@
-![logo](https://github.com/alazarlemma02/alazarlemma02/blob/main/Make%20your%20README%20(1).png)
+<!-- ![logo](https://github.com/alazarlemma02/alazarlemma02/blob/main/Make%20your%20README%20(1).png) -->
 <h1 align="center">Hi 👋, I'm Alazar Lemma</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
