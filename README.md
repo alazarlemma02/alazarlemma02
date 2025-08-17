@@ -50,17 +50,27 @@
 </p>
 
 ---
-### Featured Projects
-- **ThinkFlow** - Chrome extension that enhances your LeetCode and Codeforces experience
-- **Body Fat Estimator ML App** – End-to-end ML pipeline deployed with Streamlit
-- **BookShare API** – A Book Lending API for sharing and renting books  
-- **Book Recommendation Engine** – Collaborative filtering system using Python & Scikit-learn
-- **Freelancing Mobile App** – Connects students with freelance opportunities (Flutter + Firebase) 
 
-👉 Check out more on my [repositories](https://github.com/alazarlemma02?tab=repositories).
+### Featured Projects
+
+- [**ThinkFlow**](https://github.com/alazarlemma02/ThinkFlow)  
+  <sub>Chrome extension that enhances your LeetCode and Codeforces experience</sub>
+
+- [**Body Fat Estimator ML App**](https://github.com/alazarlemma02/body-fat-estimator-ml-app)  
+  <sub>End-to-end ML pipeline deployed with Streamlit</sub>
+
+- [**BookShare API**](https://github.com/alazarlemma02/BookShare-API)  
+  <sub>Book Lending API for sharing and renting books</sub>
+
+- [**Book Recommendation Engine**](https://github.com/alazarlemma02/Book-Recommendation-Engine-ML)  
+  <sub>Collaborative filtering system using Python & Scikit-learn</sub>
+
+- [**Freelancing Mobile App**](https://github.com/alazarlemma02/Freelance-App-flutter-project-BITS-College)  
+  <sub>Connects students with freelance opportunities (Flutter + Firebase)</sub>
 
 ---
-### 📈 My Stats
+
+### My Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alazarlemma02&theme=radical" width="410"/ height>
