@@ -53,7 +53,7 @@
 ### Featured Projects
 - **ThinkFlow** - Chrome extension that enhances your LeetCode and Codeforces experience
 - **Body Fat Estimator ML App** – End-to-end ML pipeline deployed with Streamlit
-- **BookShare API** – Django REST API with Docker & Supabase integration  
+- **BookShare API** – A Book Lending API for sharing and renting books  
 - **Book Recommendation Engine** – Collaborative filtering system using Python & Scikit-learn
 - **Freelancing Mobile App** – Connects students with freelance opportunities (Flutter + Firebase) 
 
